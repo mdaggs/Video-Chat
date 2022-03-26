@@ -35,7 +35,6 @@ const TopBar = () => {
             </Typography>
 
             <Link 
-                // href="https://github.com/arifshariati/zoom-clone-react-webRTC-socket-io-peers" 
                 href="https://github.com/mdlumen"
                 className={classes.githubButton}
                 target="_blank"
